@@ -1,3 +1,4 @@
 # DGIHackathon2025
 
-Yep, we're hackin it
+2025 Data Gen Initative Hackathon
+
