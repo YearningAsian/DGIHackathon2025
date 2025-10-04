@@ -1,0 +1,56 @@
+Id,CreatedDate,Project,Amount,Bid_Date,Bid_Date_2,Status,Warranty_Included,Estimated_Completion_Date,Service_Application
+contractor_bid_0,2023-01-30 20:40:28,project_1,38000.0,2022-10-14 00:00:00,2022-12-20 00:00:00,Selected,1,2022-12-22 00:00:00,
+contractor_bid_1,2021-07-26 19:09:50,,400.0,2021-07-06 00:00:00,,Closed - Won,0,,
+contractor_bid_2,2021-07-27 16:26:43,,2250.0,2021-07-15 00:00:00,,Selected,1,,
+contractor_bid_3,2021-07-27 16:35:39,,12830.0,2021-07-20 00:00:00,,Selected,1,,
+contractor_bid_4,2021-07-27 19:10:28,,,,,Work Complete,1,,
+contractor_bid_5,2021-07-28 16:25:43,project_0,5000.0,,,Selected,1,,
+contractor_bid_6,2021-07-28 16:26:04,project_0,5000.0,,,Selected,0,,
+contractor_bid_7,2024-06-26 16:23:06,,,,,Scheduled,0,,
+contractor_bid_8,2024-07-08 19:21:43,,,2024-07-11 00:00:00,,Scheduled,0,,
+contractor_bid_9,2024-08-06 20:01:20,,,2024-08-13 00:00:00,,Site Visit,0,,
+contractor_bid_10,2024-08-06 20:17:17,,,2024-08-13 00:00:00,,Scheduled,0,,
+contractor_bid_11,2024-08-06 20:52:02,,,2024-08-19 00:00:00,,Scheduled,0,,
+contractor_bid_12,2024-08-07 18:41:28,,,2024-08-07 00:00:00,,Bid Received,0,2024-10-15 00:00:00,
+contractor_bid_13,2025-01-27 18:17:30,,24090.0,2024-10-24 00:00:00,,Work Complete,0,2024-12-31 00:00:00,
+contractor_bid_14,2025-02-11 15:59:19,project_22,1125.0,2025-01-20 00:00:00,,Selected,1,,
+contractor_bid_15,2025-02-11 16:41:53,project_2,3000.0,2025-02-04 00:00:00,,Selected,1,,service_app_235
+contractor_bid_16,2025-02-11 17:00:17,project_3,12680.0,2024-12-11 00:00:00,,Selected,0,2024-12-11 00:00:00,
+contractor_bid_17,2025-02-11 18:16:11,project_3,12680.0,2025-01-31 00:00:00,,Closed - Won,1,2025-01-31 00:00:00,service_app_263
+contractor_bid_18,2025-03-18 16:17:25,,11275.0,2025-03-18 00:00:00,,Closed - Won,0,2025-03-20 00:00:00,service_app_258
+contractor_bid_19,2025-06-24 14:21:39,project_8,4000.0,,,Selected,0,,
+contractor_bid_20,2025-06-24 19:26:10,project_27,5000.0,2025-04-25 00:00:00,,Selected,1,,service_app_299
+contractor_bid_21,2025-06-24 19:35:14,project_9,4900.0,2025-04-30 00:00:00,,Work Complete,0,,service_app_298
+contractor_bid_22,2025-06-24 19:58:48,project_10,1000.0,2025-03-07 00:00:00,,Closed - Won,0,,service_app_295
+contractor_bid_23,2025-06-24 19:59:34,project_10,3950.0,2025-02-25 00:00:00,,Closed - Won,0,,service_app_295
+contractor_bid_24,2025-06-25 15:42:53,project_11,5000.0,2025-04-09 00:00:00,,Closed - Won,1,,service_app_232
+contractor_bid_25,2025-06-25 19:34:49,project_12,5000.0,2025-02-01 00:00:00,,Closed - Won,1,,service_app_261
+contractor_bid_26,2025-06-26 18:38:02,project_13,15630.0,2025-05-10 00:00:00,,Selected,1,,service_app_297
+contractor_bid_27,2025-06-26 18:40:36,project_13,6521.0,2025-05-09 00:00:00,,Selected,1,,
+contractor_bid_28,2025-06-27 20:27:08,project_14,24700.0,2025-02-06 00:00:00,,Selected,1,,service_app_255
+contractor_bid_29,2025-06-27 20:32:58,project_14,8270.17,2025-02-20 00:00:00,,Selected,0,,service_app_255
+contractor_bid_30,2025-06-30 15:13:31,project_15,30000.0,2025-02-27 00:00:00,,Selected,1,,
+contractor_bid_31,2025-07-01 17:58:10,project_16,39800.0,2025-03-20 00:00:00,,Selected,0,,service_app_267
+contractor_bid_32,2025-07-01 18:13:46,project_17,26350.0,2025-02-04 00:00:00,,Closed - Won,1,,
+contractor_bid_33,2025-07-01 19:24:40,project_18,18100.0,2025-03-04 00:00:00,,Closed - Won,0,,service_app_252
+contractor_bid_34,2025-07-01 20:50:09,project_19,15580.0,2025-02-25 00:00:00,,Closed - Won,1,,service_app_264
+contractor_bid_35,2025-07-01 21:18:30,project_21,25155.0,2025-05-31 00:00:00,,Selected,1,,service_app_302
+contractor_bid_36,2025-07-02 16:00:58,project_23,,2025-05-21 00:00:00,,Selected,0,,
+contractor_bid_37,2025-07-02 16:11:46,project_22,17300.0,2025-01-23 00:00:00,,Selected,0,,service_app_250
+contractor_bid_38,2025-07-02 16:12:41,project_22,350.0,2025-02-27 00:00:00,,Selected,0,,service_app_250
+contractor_bid_39,2025-07-03 18:53:43,project_24,11036.0,2024-11-13 00:00:00,,Closed - Won,1,,service_app_259
+contractor_bid_40,2025-07-03 18:57:07,project_24,3000.0,2024-12-04 00:00:00,,Closed - Won,0,,service_app_259
+contractor_bid_41,2025-07-03 18:58:10,project_24,33073.0,2024-11-30 00:00:00,,Closed - Won,1,,service_app_259
+contractor_bid_42,2025-07-07 18:02:11,project_25,5000.0,2025-03-04 00:00:00,,Closed - Won,1,,service_app_301
+contractor_bid_43,2025-07-07 20:34:31,project_26,5000.0,2025-03-04 00:00:00,,Selected,1,,
+contractor_bid_44,2025-07-09 18:04:54,project_14,500.0,2025-04-17 00:00:00,,Selected,1,,
+contractor_bid_45,2025-07-09 18:29:55,project_14,1125.0,2025-02-23 00:00:00,,Selected,1,,service_app_255
+contractor_bid_46,2025-07-09 18:31:53,project_14,500.0,2025-04-17 00:00:00,,Selected,1,,service_app_255
+contractor_bid_47,2025-07-21 16:00:46,project_28,23520.0,2025-07-15 00:00:00,,Selected,1,,
+contractor_bid_48,2025-07-28 17:57:56,project_15,1150.0,2025-04-11 00:00:00,,Selected,0,,
+contractor_bid_49,2025-07-30 16:12:46,project_29,29000.0,2025-07-17 00:00:00,,Selected,1,,service_app_315
+contractor_bid_50,2025-07-30 16:16:19,project_29,1117.0,2025-07-02 00:00:00,,Selected,0,,service_app_315
+contractor_bid_51,2025-08-11 18:52:56,project_30,28090.0,2025-07-08 00:00:00,,Selected,1,,service_app_202
+contractor_bid_52,2025-08-11 18:53:50,project_30,1125.0,2025-07-07 00:00:00,,Selected,0,,service_app_202
+contractor_bid_53,2025-08-11 18:54:24,project_30,6000.0,2025-07-07 00:00:00,,Site Visit,0,,service_app_202
+contractor_bid_54,2025-09-23 16:15:38,project_29,1302.0,2025-08-19 00:00:00,,Selected,1,,service_app_315

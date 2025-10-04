@@ -1,0 +1,21 @@
+Id,RecordType,CreatedDate,City,Has_Insurance,Home_Owned_and_Occupied,Homeowner_Application_Female_HoH,Service_Application,How_did_you_hear_about_us,Language_Spoken,Lead_Status,Number_of_Residents,Relationship_to_Homeowner,Repair_Areas,Resident_Demographics,State,Taxes_and_Mortgage_Current,Total_Annual_Household_Income,Type_of_Home,Volunteer_Availability,Volunteer_Interest,Year_Built,Zip
+a101K000009oD32QAE,Application For Services,2019-07-08 19:00:05,Franklin,0,0,0,service_app_28,,English,Submitted,,Family member,,,TN,0,,,,,,37064
+a101K000009oJsmQAE,Application For Services,2019-08-03 03:00:01,Clarksville,1,1,0,service_app_31,,English,Affiliate Notified,5.0,Family member,Deck/Porch/Steps;Insulation;Roof;Weatherization,Child Resident;Disabled Resident;Veteran Resident,TN,1,50000.0,Single Family,,,1987.0,37042
+a1041000000KWtPAAW,Volunteer,2016-10-25 14:15:52,clarksville,0,0,0,,Charter Communications,,Affiliate Notified,,,,,TN,0,,,Monthly,Project Volunteer,,37010
+a1041000000koOnAAI,Application For Services,2016-11-10 23:30:17,woodlawn,0,0,0,,Rebuilding Together,English,Affiliate Notified,4.0,,Deck/Porch/Steps;Flooring;HVAC;Windows,Disabled Resident,TN,0,1900.0,Mobile Home,,,1992.0,37191
+a1041000000oIUOAA2,Application For Services,2017-01-13 04:41:41,Clarksville,1,1,0,,Charter Communications,English,Affiliate Notified,4.0,,Doors/Locks;Fence/Gate(s);Flooring;Windows,Child Resident;Veteran Resident,TN,0,55000.0,Single Family,,,1976.0,37042
+a1041000001IJe3AAG,Volunteer,2017-01-30 17:45:58,Lebanon,0,0,0,,"Word of Mouth (friend, relative, coworker, or neighbor)",,Affiliate Notified,,,,,TN,0,,,Monthly,Project Volunteer,,37087
+a1041000001Riy1AAC,Application For Services,2017-02-15 23:16:02,Clarksville,1,1,0,,Charter Communications,English,Affiliate Notified,4.0,Friend,Bathroom,Child Resident;Disabled Resident;Elderly Resident,TN,0,8400.0,Single Family,,,1970.0,37043
+a1041000001W14kAAC,Application For Services,2017-05-04 13:32:59,Clarksville,0,0,0,,Charter Communications,,Affiliate Notified,,,,,TN,0,,,,,,37042
+a1041000001W14pAAC,Application For Services,2017-05-04 13:34:20,Clarksville,1,0,0,,Charter Communications,English,Affiliate Notified,2.0,Family member,Electrical,Disabled Resident;Elderly Resident,TN,1,22716.0,Single Family,,,1966.0,37042
+a1041000003e0rWAAQ,Application For Services,2017-11-11 00:11:21,Clarksville,1,1,0,,,Spanish,Affiliate Notified,3.0,,Exterior;Flooring;Gutters;Windows,Veteran Resident;Elderly Resident,TN,1,40000.0,Single Family,,,1996.0,37042
+a1041000004ts6AAAQ,Application For Services,2018-03-08 21:54:15,nashville,1,1,0,,,English,Affiliate Notified,4.0,,Doors/Locks,Disabled Resident,TN,1,1800.0,Single Family,,,1950.0,37218
+a1041000005uREkAAM,Volunteer,2018-05-04 13:57:25,Clarksville,0,0,0,,,,Affiliate Notified,,,,,TN,0,,,Monthly,Project Volunteer,,37042
+a1041000005uREpAAM,Volunteer,2018-05-04 13:57:28,Lebanon,0,0,0,,,,Affiliate Notified,,,,,TN,0,,,Monthly,Project Volunteer,,37087
+a10410000066X54AAE,Application For Services,2018-05-08 11:02:08,Lebanon,1,1,0,,,English,Affiliate Notified,2.0,Friend,Bathroom;Cabinets;Drywall;Exterior,Disabled Resident,TN,1,22200.0,Single Family,,,1950.0,37087
+a1041000006OQYBAA4,Application For Services,2018-05-25 00:37:19,Clarksville,1,1,0,,,English,Submitted,3.0,,Fence/Gate(s);Flooring;Gutters;Kitchen,,TN,1,12000.0,Single Family,,,1950.0,37040
+a1041000006bP3jAAE,Application For Services,2018-06-07 23:12:51,Nashville,0,1,0,,,English,Affiliate Notified,1.0,Family member,Bathroom;Debris Removal;Kitchen;Tub/Tile,,TN,0,0.0,Single Family,,,,37206
+a10410000077ojZAAQ,Application For Services,2018-07-12 18:05:23,lebanon,0,1,0,,,English,Submitted,3.0,,Ceiling;Drywall;Flooring;Foundation,Disabled Resident;Elderly Resident,TN,0,13740.0,Single Family,,,1968.0,37087
+a1041000007AEJwAAO,Volunteer,2018-07-20 01:00:41,Clarksville,0,0,0,,,,Affiliate Notified,,,,,TN,0,,,Monthly,Project Volunteer,,37042
+a104M000009WeX2QAK,Application For Services,2019-08-24 04:04:57,Clarksville,1,0,0,service_app_86,,English,Affiliate Notified,1.0,,Roof,,TN,0,1369.0,Single Family,,,1958.0,37042
+a104M000009WespQAC,Application For Services,2019-10-18 01:08:51,Clarksville,1,1,0,service_app_89,,English,Affiliate Notified,2.0,,Bathroom;Deck/Porch/Steps;Walkways/Entryways/Sidewalks,Disabled Resident,TN,1,52316.0,Mobile Home,,,2006.0,37043

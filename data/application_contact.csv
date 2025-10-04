@@ -1,0 +1,538 @@
+CreatedDate,Service_Application,RecordType,Age_at_Application,Annual_Gross_Income,Deceased,Disability,Ethnicity,Gender,Primary_Contact,Race2,Subtype,Type,US_Veteran_Active_Duty
+2019-03-04 19:32:34,service_app_0,Household Contact,72.0,20595.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-03-04 20:10:54,service_app_1,Household Contact,79.0,15049.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-03-04 20:54:54,service_app_2,Household Contact,67.0,9844.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-03-04 22:02:58,service_app_3,Household Contact,61.0,17052.0,0,0,Not-Hispanic or Latino,Female,0,Native Hawaiian or Other Pacific Islander,Homeowner,Household Resident,0
+2019-03-06 21:06:07,service_app_4,Household Contact,96.0,17800.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-03-06 21:08:30,service_app_4,Household Contact,61.0,23086.22,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Child,Household Resident,0
+2019-03-07 16:47:16,service_app_5,Household Contact,47.0,14700.0,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2019-03-07 16:48:36,service_app_5,Household Contact,69.0,13884.0,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Parent,Household Resident,0
+2019-03-07 18:41:58,service_app_6,Household Contact,69.0,9252.0,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-03-07 21:42:50,service_app_7,Household Contact,86.0,13591.2,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-03-11 21:54:55,service_app_2,Household Contact,68.0,23258.0,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Spouse,Household Resident,0
+2019-03-13 00:42:33,service_app_3,Household Contact,21.0,11779.0,0,0,Not-Hispanic or Latino,Male,0,Native Hawaiian or Other Pacific Islander,Child,Household Resident,0
+2019-03-14 20:20:26,service_app_8,Household Contact,73.0,12228.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-03-14 20:42:01,service_app_9,Household Contact,67.0,25200.36,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-03-31 18:24:11,service_app_6,Household Contact,34.0,5717.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Child,Household Resident,0
+2019-03-31 18:25:13,service_app_6,Household Contact,15.0,0.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Grandchild,Household Resident,0
+2019-04-03 20:02:07,service_app_10,Household Contact,78.0,28188.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-04-18 19:09:20,service_app_11,Household Contact,79.0,14928.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-07-05 19:59:07,service_app_27,Household Contact,52.0,12300.0,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2019-07-05 20:01:12,service_app_27,Household Contact,76.0,18914.52,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2019-07-08 19:00:09,service_app_28,Household Contact,76.0,,0,0,,,0,,Homeowner,Household Resident,0
+2019-07-08 19:00:10,service_app_28,Household Contact,,,0,0,,,1,,,Family Member,0
+2019-07-09 19:25:31,service_app_29,Household Contact,42.0,0.0,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2019-07-16 14:04:08,service_app_29,Household Contact,21.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2019-07-16 14:31:37,service_app_26,Household Contact,19.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Child,Household Resident,0
+2019-07-16 14:32:11,service_app_26,Household Contact,12.0,3768.0,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2019-07-16 14:41:01,service_app_30,Household Contact,56.0,9492.0,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2019-07-16 14:43:00,service_app_30,Household Contact,68.0,16296.0,0,1,,Male,0,Black or African American,Spouse,Household Resident,0
+2019-07-16 14:43:43,service_app_30,Household Contact,,9252.0,0,1,,Male,0,Black or African American,Child,Household Resident,0
+2019-07-16 15:10:59,service_app_27,Household Contact,48.0,13056.0,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2019-07-16 15:11:38,service_app_27,Household Contact,32.0,14553.7,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Child,Household Resident,0
+2019-07-16 15:12:05,service_app_27,Household Contact,7.0,,0,0,,Female,0,Black or African American,Grandchild,Household Resident,0
+2019-08-03 03:00:09,service_app_31,Household Contact,30.0,,0,0,,,0,,Homeowner,Household Resident,0
+2019-08-03 03:00:10,service_app_31,Household Contact,,,0,0,,,1,,,Family Member,0
+2018-11-27 18:15:13,service_app_58,Household Contact,9.0,6000.0,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Nephew,Household Resident,0
+2018-12-05 17:43:03,service_app_12,Household Contact,67.0,26436.0,0,1,Not-Hispanic or Latino,Male,0,White,Homeowner,Household Resident,0
+2018-12-05 17:44:41,service_app_12,Household Contact,57.0,0.0,0,0,Not-Hispanic or Latino,Female,0,White,Spouse,Household Resident,1
+2018-12-06 19:13:12,service_app_13,Household Contact,83.0,11436.0,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,0
+2019-01-02 17:56:05,service_app_85,Household Contact,10.0,,0,0,Not-Hispanic or Latino,Female,0,Other,Child,Household Resident,0
+2019-01-02 17:57:02,service_app_85,Household Contact,7.0,,0,0,Not-Hispanic or Latino,Male,0,Other,Child,Household Resident,0
+2019-02-25 18:57:51,service_app_15,Household Contact,77.0,17401.92,0,0,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,0
+2019-02-25 19:22:56,service_app_16,Household Contact,57.0,11088.0,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-02-25 19:25:40,service_app_16,Household Contact,22.0,12240.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Child,Household Resident,0
+2019-02-25 19:27:06,service_app_16,Household Contact,21.0,18728.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Child,Household Resident,0
+2019-02-25 20:21:46,service_app_17,Household Contact,60.0,11700.0,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-02-25 20:29:01,service_app_17,Household Contact,57.0,25734.0,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Spouse,Household Resident,0
+2019-02-25 21:05:57,service_app_18,Household Contact,61.0,14976.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-02-25 21:09:20,service_app_18,Household Contact,66.0,15796.0,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Spouse,Household Resident,1
+2019-02-26 17:30:33,service_app_19,Household Contact,68.0,22201.17,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2019-04-23 15:00:53,service_app_20,Household Contact,56.0,10532.34,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Spouse,Household Resident,0
+2019-04-23 15:01:04,service_app_20,Household Contact,68.0,43222.08,0,0,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,1
+2019-04-23 16:56:27,service_app_21,Household Contact,70.0,24597.36,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2019-04-23 20:10:08,service_app_22,Household Contact,63.0,15252.0,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2019-04-25 19:17:20,service_app_23,Household Contact,67.0,20827.2,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2019-04-29 17:23:34,service_app_24,Household Contact,72.0,14544.0,0,0,Not-Hispanic or Latino,Female,0,White,Homeowner,Household Resident,0
+2019-05-20 17:34:14,service_app_25,Household Contact,72.0,28818.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,1
+2019-05-21 21:01:56,service_app_24,Household Contact,52.0,9108.0,0,0,Not-Hispanic or Latino,Female,0,White,Child,Household Resident,0
+2019-05-22 02:59:39,service_app_25,Household Contact,68.0,16181.88,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Spouse,Household Resident,0
+2019-06-18 21:26:26,service_app_26,Household Contact,55.0,15099.6,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,0
+2019-06-18 21:28:48,service_app_26,Household Contact,52.0,3768.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Spouse,Household Resident,0
+2018-04-03 15:57:11,service_app_32,Household Contact,,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-04-03 21:13:47,service_app_33,Household Contact,72.0,26555.88,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-02-06 22:07:25,service_app_34,Household Contact,69.0,13884.0,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,0
+2018-02-07 16:23:04,service_app_35,Household Contact,85.0,9036.0,1,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-02-07 16:43:35,service_app_36,Household Contact,50.0,35790.0,0,0,Not-Hispanic or Latino,Female,0,White,Homeowner,Household Resident,0
+2018-02-07 16:45:47,service_app_36,Household Contact,18.0,0.0,0,0,Data Unavailable,Female,0,Data Unavailable,Child,Household Resident,0
+2018-02-07 17:23:51,service_app_37,Household Contact,79.0,4560.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-02-07 17:27:49,service_app_37,Household Contact,56.0,15001.0,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2018-02-07 17:32:18,service_app_38,Household Contact,75.0,31112.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-02-07 17:41:33,service_app_38,Household Contact,50.0,9292.0,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2018-03-06 18:38:55,service_app_40,Household Contact,55.0,,0,0,Data Unavailable,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-03-09 15:40:08,service_app_41,Household Contact,68.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-03-09 16:08:39,service_app_42,Household Contact,54.0,20436.0,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-04-09 19:00:54,service_app_43,Household Contact,45.0,8820.0,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-04-09 19:07:19,service_app_44,Household Contact,86.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,0
+2018-04-09 19:20:15,service_app_45,Household Contact,60.0,21816.43,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-04-09 19:25:12,service_app_46,Household Contact,42.0,8436.0,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-04-09 19:30:03,service_app_47,Household Contact,75.0,30428.52,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-04-10 15:07:15,service_app_48,Household Contact,63.0,,0,0,Data Unavailable,Male,0,Black or African American,Homeowner,Household Resident,0
+2018-04-10 15:12:46,service_app_49,Household Contact,73.0,,0,0,Data Unavailable,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-04-24 15:46:26,service_app_50,Household Contact,77.0,9000.0,1,1,Not-Hispanic or Latino,Female,0,White,Homeowner,Household Resident,0
+2018-04-24 15:51:31,service_app_51,Household Contact,46.0,,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-04-24 15:56:36,service_app_52,Household Contact,53.0,,0,0,Not-Hispanic or Latino,Female,0,White,Homeowner,Household Resident,0
+2018-05-01 21:03:03,service_app_53,Household Contact,46.0,42827.0,0,0,Data Unavailable,Female,0,White,Homeowner,Household Resident,0
+2018-05-15 15:31:48,service_app_54,Household Contact,53.0,9000.0,0,1,Hispanic or Latino,Female,0,Other,Homeowner,Household Resident,0
+2018-05-15 15:37:46,service_app_55,Household Contact,53.0,20250.0,0,0,Not-Hispanic or Latino,Female,0,Other,Homeowner,Household Resident,0
+2018-05-15 15:50:32,service_app_56,Household Contact,97.0,12600.0,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,1
+2018-05-21 14:28:43,service_app_57,Household Contact,77.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-05-21 14:34:18,service_app_58,Household Contact,59.0,8940.0,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-05-21 14:50:12,service_app_59,Household Contact,70.0,30762.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-05-21 15:02:07,service_app_60,Household Contact,41.0,41112.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-05-21 15:16:06,service_app_61,Household Contact,46.0,,0,0,Not-Hispanic or Latino,Male,0,Other,Homeowner,Household Resident,0
+2018-11-02 18:51:00,service_app_80,Household Contact,65.0,9000.0,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-11-02 18:52:42,service_app_80,Household Contact,42.0,31604.0,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2018-11-05 18:30:35,service_app_61,Household Contact,42.0,,0,1,,,0,,Spouse,Household Resident,0
+2018-11-05 19:03:25,service_app_81,Household Contact,56.0,30123.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-11-05 19:53:32,service_app_82,Household Contact,67.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-11-05 19:56:32,service_app_82,Household Contact,17.0,,0,0,,Male,0,,Grandchild,Household Resident,0
+2018-11-05 19:57:21,service_app_82,Household Contact,16.0,,0,0,,Male,0,,Grandchild,Household Resident,0
+2018-11-05 21:38:29,service_app_83,Household Contact,63.0,12804.0,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-11-05 22:44:00,service_app_84,Household Contact,74.0,25952.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-11-06 19:34:16,service_app_85,Household Contact,40.0,29530.0,0,0,Not-Hispanic or Latino,Female,1,Other,Homeowner,Household Resident,0
+2018-07-19 16:14:16,service_app_62,Household Contact,85.0,9817.92,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-07-19 16:25:24,service_app_50,Household Contact,45.0,23446.54,0,0,Not-Hispanic or Latino,Male,1,White,Homeowner,Household Resident,0
+2018-07-19 19:47:41,service_app_63,Household Contact,64.0,9156.0,0,1,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,0
+2018-07-19 19:49:29,service_app_63,Household Contact,,9000.0,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,0
+2018-07-19 21:08:15,service_app_64,Household Contact,57.0,31114.89,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,1
+2018-07-19 21:10:18,service_app_64,Household Contact,,,1,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-07-19 21:13:02,service_app_64,Household Contact,26.0,8820.0,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2018-07-20 16:08:47,service_app_65,Household Contact,77.0,28324.28,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-07-20 16:10:20,service_app_65,Household Contact,55.0,,0,1,Not-Hispanic or Latino,Male,0,,Child,Household Resident,0
+2018-07-20 16:18:16,service_app_66,Household Contact,79.0,16920.0,0,1,Not-Hispanic or Latino,Female,1,White,Homeowner,Household Resident,0
+2018-07-20 16:20:21,service_app_66,Household Contact,80.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Spouse,Household Resident,0
+2018-07-20 16:23:54,service_app_67,Household Contact,69.0,34054.8,0,0,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,1
+2018-07-20 16:25:05,service_app_67,Household Contact,59.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Spouse,Household Resident,0
+2018-07-20 16:31:07,service_app_68,Household Contact,83.0,22632.64,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-07-20 16:51:44,service_app_69,Household Contact,82.0,36263.48,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-07-20 18:58:02,service_app_69,Household Contact,85.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Spouse,Household Resident,0
+2018-07-20 18:58:54,service_app_69,Household Contact,14.0,,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Grandchild,Household Resident,0
+2018-07-20 19:35:38,service_app_70,Household Contact,88.0,28616.05,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-07-20 19:39:45,service_app_71,Household Contact,88.0,18167.26,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-07-20 19:43:51,service_app_72,Household Contact,77.0,20974.7,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-07-20 19:51:28,service_app_73,Household Contact,84.0,23634.48,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-07-20 19:53:07,service_app_73,Household Contact,18.0,,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Grandchild,Household Resident,0
+2018-07-20 19:57:16,service_app_74,Household Contact,51.0,25572.56,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-07-20 20:00:42,service_app_75,Household Contact,75.0,22212.0,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-07-20 20:02:24,service_app_75,Household Contact,51.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2018-07-20 20:05:33,service_app_76,Household Contact,,,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2018-09-10 18:23:07,service_app_55,Household Contact,61.0,,0,1,Not-Hispanic or Latino,Male,0,Other,Spouse,Household Resident,0
+2018-09-10 18:25:49,service_app_55,Household Contact,14.0,,0,0,Not-Hispanic or Latino,Female,0,Other,Child,Household Resident,0
+2018-09-10 18:33:56,service_app_55,Household Contact,18.0,,0,0,Not-Hispanic or Latino,Male,0,Other,Child,Household Resident,0
+2018-09-10 19:26:37,service_app_32,Household Contact,17.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Child,Household Resident,0
+2018-09-10 19:29:46,service_app_32,Household Contact,,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Friend,Household Resident,0
+2018-09-10 21:24:47,service_app_53,Household Contact,15.0,,0,0,,Male,0,,Child,Household Resident,0
+2018-09-10 21:25:29,service_app_53,Household Contact,11.0,,0,0,,Male,0,,Child,Household Resident,0
+2018-09-10 21:26:30,service_app_53,Household Contact,10.0,7728.0,0,0,,Male,0,,Child,Household Resident,0
+2018-09-10 21:27:53,service_app_53,Household Contact,7.0,7728.0,0,0,,Male,0,,Child,Household Resident,0
+2018-09-10 21:29:14,service_app_53,Household Contact,16.0,,0,0,,Female,0,,Child,Household Resident,0
+2018-09-10 21:30:06,service_app_53,Household Contact,19.0,,0,0,,Female,0,,Child,Household Resident,0
+2018-07-30 14:44:23,service_app_46,Household Contact,65.0,9240.0,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Parent,Household Resident,0
+2018-07-30 14:45:28,service_app_46,Household Contact,36.0,9240.0,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Sibling,Household Resident,0
+2018-08-08 15:51:17,service_app_51,Household Contact,44.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,0
+2018-08-08 15:52:01,service_app_51,Household Contact,6.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2018-08-08 15:52:27,service_app_51,Household Contact,2.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Child,Household Resident,0
+2018-09-06 19:42:40,service_app_60,Household Contact,17.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2018-09-06 19:44:20,service_app_60,Household Contact,13.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2018-09-06 19:45:12,service_app_60,Household Contact,9.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2018-09-06 19:47:57,service_app_60,Household Contact,5.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Child,Household Resident,0
+2018-10-09 22:20:25,service_app_77,Household Contact,,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-10-09 22:26:02,service_app_77,Household Contact,,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Child,Household Resident,0
+2018-10-09 22:26:45,service_app_77,Household Contact,,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Grandchild,Household Resident,0
+2018-10-11 20:25:37,service_app_78,Household Contact,64.0,37316.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2018-10-25 16:02:35,service_app_79,Household Contact,62.0,14160.0,0,1,Not-Hispanic or Latino,Female,0,White,Homeowner,Household Resident,0
+2018-10-25 16:06:03,service_app_79,Household Contact,72.0,10920.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2020-04-23 14:37:45,service_app_124,Household Contact,61.0,36002.0,0,0,Not-Hispanic or Latino,Female,0,,Homeowner,Household Resident,0
+2020-05-08 13:12:07,service_app_125,Household Contact,64.0,38566.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2020-05-08 13:15:07,service_app_125,Household Contact,58.0,12119.0,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Friend,Household Resident,0
+2020-05-14 16:13:53,service_app_126,Facility Contact,,,0,0,,,0,,,Board Member,0
+2020-05-18 15:16:57,service_app_127,Facility Contact,,,0,0,,,0,,,Board Member,0
+2020-05-18 15:33:37,service_app_128,Facility Contact,,,0,0,,,0,,,Board Member,0
+2020-05-18 15:46:19,service_app_129,Facility Contact,,,0,0,,,0,,,Board Member,0
+2020-05-18 15:56:41,service_app_130,Facility Contact,,,0,0,,,0,,,Board Member,0
+2020-08-11 20:49:56,service_app_131,Household Contact,36.0,32031.0,0,0,Hispanic or Latino,Male,0,Other,Homeowner,Household Resident,0
+2020-08-11 21:20:03,service_app_156,Household Contact,37.0,44116.87,0,0,Not-Hispanic or Latino,Female,0,White,Child,Household Resident,0
+2020-08-12 14:46:13,service_app_156,Household Contact,55.0,16084.8,0,0,Not-Hispanic or Latino,Female,0,White,Spouse,Household Resident,0
+2020-09-04 14:27:15,service_app_132,Household Contact,68.0,33640.94,0,0,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,1
+2020-09-10 17:37:34,service_app_133,Household Contact,75.0,52944.24,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,0
+2020-09-23 14:18:58,service_app_132,Household Contact,66.0,13075.92,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Spouse,Household Resident,0
+2020-09-28 21:22:54,service_app_134,Household Contact,62.0,13464.0,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2020-10-02 16:25:28,service_app_135,Household Contact,60.0,,0,0,,Male,0,,Homeowner,Household Resident,0
+2020-10-06 17:10:38,service_app_136,Household Contact,66.0,22923.0,0,1,Not-Hispanic or Latino,Female,0,Other,Homeowner,Household Resident,1
+2020-10-20 21:03:43,service_app_137,Household Contact,70.0,33563.89,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2020-10-23 16:47:14,service_app_138,Household Contact,,74148.0,0,0,,Female,0,White,Homeowner,Household Resident,0
+2020-10-23 17:11:36,service_app_139,Household Contact,69.0,10946.4,0,0,Not-Hispanic or Latino,Male,0,,Homeowner,Household Resident,0
+2020-10-26 14:28:33,service_app_136,Household Contact,38.0,20954.79,0,0,Not-Hispanic or Latino,Female,0,Other,Child,Household Resident,0
+2020-10-30 18:07:02,service_app_134,Household Contact,33.0,22873.24,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Child,Household Resident,0
+2020-11-09 16:03:04,service_app_140,Household Contact,79.0,20079.91,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2020-11-10 15:34:03,service_app_141,Household Contact,36.0,81492.16,0,0,Not-Hispanic or Latino,Female,0,White,Homeowner,Household Resident,0
+2020-11-10 16:42:09,service_app_142,Household Contact,,27802.8,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,0
+2020-11-15 21:49:23,service_app_143,Household Contact,63.0,32816.97,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2020-11-15 22:22:17,service_app_144,Household Contact,58.0,,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2020-11-20 17:07:50,service_app_143,Household Contact,31.0,13624.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Child,Household Resident,0
+2020-11-20 17:08:21,service_app_143,Household Contact,6.0,0.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Grandchild,Household Resident,0
+2020-11-24 20:52:10,service_app_140,Household Contact,24.0,17262.08,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Grandchild,Household Resident,0
+2020-11-24 20:53:05,service_app_140,Household Contact,14.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Grandchild,Household Resident,0
+2020-11-24 20:56:03,service_app_140,Household Contact,14.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Grandchild,Household Resident,0
+2020-11-25 15:19:17,service_app_145,Household Contact,78.0,17395.2,0,1,,Female,0,Black or African American,Homeowner,Household Resident,0
+2020-11-25 15:24:35,service_app_145,Household Contact,56.0,15288.0,0,1,,Female,1,Black or African American,,Household Resident,0
+2020-11-25 15:41:31,service_app_146,Household Contact,72.0,27917.47,0,1,,Female,0,Black or African American,Homeowner,Household Resident,0
+2020-12-15 16:55:38,service_app_147,Household Contact,84.0,21232.0,0,0,,Male,1,Black or African American,Homeowner,Household Resident,1
+2020-12-15 18:52:41,service_app_147,Household Contact,66.0,17964.0,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2020-12-15 18:53:33,service_app_147,Household Contact,14.0,,0,0,,Male,0,,Grandchild,Household Resident,0
+2020-12-21 15:01:24,service_app_39,Household Contact,78.0,16248.0,1,0,Not-Hispanic or Latino,Female,1,White,Homeowner,Household Resident,0
+2019-08-24 04:05:01,service_app_86,Household Contact,61.0,,0,0,,,0,,Homeowner,Household Resident,0
+2019-09-05 20:56:39,service_app_87,Household Contact,43.0,10800.0,0,1,Data Unavailable,Female,1,Black or African American,Homeowner,Household Resident,0
+2019-09-05 21:14:10,service_app_87,Household Contact,16.0,612.0,0,0,Data Unavailable,Female,0,Black or African American,Child,Household Resident,0
+2019-09-05 21:15:01,service_app_87,Household Contact,14.0,8086.8,0,1,Data Unavailable,Female,0,Black or African American,Child,Household Resident,0
+2019-09-05 21:16:30,service_app_87,Household Contact,14.0,612.0,0,0,Data Unavailable,Female,0,Black or African American,Child,Household Resident,0
+2019-09-18 18:16:14,service_app_88,Household Contact,69.0,10668.0,0,1,Data Unavailable,Female,0,White,Homeowner,Household Resident,0
+2019-10-18 01:08:57,service_app_89,Household Contact,36.0,,0,0,,,0,,Homeowner,Household Resident,0
+2020-05-22 14:39:52,service_app_152,Household Contact,64.0,21168.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2020-05-22 14:57:18,service_app_153,Household Contact,67.0,19255.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2020-06-04 02:29:01,service_app_154,Household Contact,69.0,21399.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2020-06-04 02:44:05,service_app_155,Household Contact,74.0,30792.48,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2020-06-10 19:24:59,service_app_152,Household Contact,21.0,480.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Grandchild,Household Resident,0
+2020-06-23 19:36:53,service_app_155,Household Contact,76.0,25877.64,0,1,,Male,0,Black or African American,Sibling,Household Resident,0
+2020-07-29 22:12:30,service_app_156,Household Contact,70.0,13971.6,0,0,Not-Hispanic or Latino,Male,0,White,Homeowner,Household Resident,0
+2021-09-20 16:37:27,service_app_90,Household Contact,78.0,16434.0,0,0,,Male,1,Black or African American,Homeowner,Household Resident,1
+2022-12-19 20:38:15,service_app_173,Household Contact,70.0,18360.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-01-17 16:24:00,service_app_174,Household Contact,69.0,16428.96,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-02-17 20:21:07,service_app_175,Household Contact,,,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-02-17 20:21:07,service_app_175,Household Contact,52.0,8038.32,0,0,,Male,0,Black or African American,,Household Resident,0
+2023-02-17 20:21:07,service_app_175,Household Contact,65.0,8400.0,0,1,,Male,0,Black or African American,,Household Resident,0
+2023-02-22 21:06:28,service_app_176,Household Contact,62.0,46173.96,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-02-22 21:06:28,service_app_176,Household Contact,34.0,400.0,0,0,,Female,0,Black or African American,Child,Household Resident,0
+2023-02-22 21:06:28,service_app_176,Household Contact,14.0,,0,0,,Female,0,Black or African American,Grandchild,Household Resident,0
+2023-02-22 21:06:28,service_app_176,Household Contact,13.0,,0,0,,,0,,Grandchild,Household Resident,0
+2023-03-01 22:12:42,service_app_177,Household Contact,78.0,21757.44,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-03-08 17:55:34,service_app_178,Household Contact,83.0,17571.6,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-03-08 18:46:20,service_app_179,Household Contact,64.0,53455.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-03-08 19:27:14,service_app_180,Household Contact,65.0,47897.04,0,0,,Male,1,Black or African American,Homeowner,Household Resident,0
+2023-03-13 20:07:46,service_app_180,Household Contact,58.0,11292.0,0,1,,Female,0,Black or African American,Spouse,Household Resident,0
+2023-03-15 15:50:26,service_app_181,Household Contact,75.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,0
+2023-03-22 21:16:06,service_app_182,Household Contact,,36934.9,0,1,,Female,1,Black or African American,Homeowner,Household Resident,0
+2021-02-23 17:14:13,service_app_157,Household Contact,69.0,25777.68,0,1,,Female,1,Black or African American,Homeowner,Household Resident,0
+2021-02-23 18:07:53,service_app_158,Household Contact,65.0,38174.28,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2021-04-26 14:20:13,service_app_159,Household Contact,71.0,12300.0,0,1,,Female,1,Black or African American,Homeowner,Household Resident,0
+2021-04-26 14:25:42,service_app_159,Household Contact,,12000.0,0,0,,Female,0,,,Household Resident,0
+2021-04-26 14:59:56,service_app_160,Household Contact,61.0,37000.0,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2021-04-26 15:14:51,service_app_161,Household Contact,64.0,20160.0,0,1,,Female,1,Black or African American,Homeowner,Household Resident,0
+2021-04-26 15:23:11,service_app_160,Household Contact,62.0,10020.0,0,1,,Female,0,Black or African American,Spouse,Household Resident,0
+2021-06-01 14:49:31,service_app_162,Household Contact,93.0,38282.86,0,0,Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2021-06-01 20:23:45,service_app_163,Household Contact,38.0,55372.98,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2021-06-01 21:01:47,service_app_164,Household Contact,76.0,,0,0,,,0,Black or African American,Homeowner,Household Resident,0
+2021-06-01 21:02:08,service_app_164,Household Contact,76.0,19098.0,0,0,,Male,1,Black or African American,Homeowner,Household Resident,0
+2021-06-02 16:22:48,service_app_165,Household Contact,69.0,55062.38,0,0,,Female,0,White,Homeowner,Household Resident,0
+2021-06-16 19:30:43,service_app_166,Household Contact,76.0,15084.0,0,1,,Female,1,Black or African American,Homeowner,Household Resident,0
+2021-06-16 20:03:28,service_app_167,Household Contact,65.0,30894.0,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2021-06-16 20:36:49,service_app_168,Household Contact,,21758.2,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2021-06-16 20:40:24,service_app_168,Household Contact,74.0,2750.0,0,0,,Female,0,Black or African American,Spouse,Household Resident,0
+2021-06-16 20:55:05,service_app_169,Household Contact,73.0,24720.0,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2021-06-16 20:57:58,service_app_169,Household Contact,,16572.0,0,0,,Female,0,,Spouse,Household Resident,0
+2021-06-25 18:03:31,service_app_170,Household Contact,73.0,26400.0,0,0,,Female,1,,Homeowner,Household Resident,0
+2021-06-25 18:18:47,service_app_171,Household Contact,28.0,8575.2,0,1,,Male,0,,Grandchild,Household Resident,0
+2021-06-25 18:09:04,service_app_171,Household Contact,72.0,22608.0,0,0,,Female,0,,Homeowner,Household Resident,0
+2021-07-06 20:04:11,service_app_172,Household Contact,60.0,14592.0,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2021-01-13 17:07:34,service_app_148,Household Contact,66.0,29545.32,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2021-01-13 17:16:02,service_app_148,Household Contact,56.0,31208.36,0,0,,Male,0,Black or African American,Spouse,Household Resident,0
+2021-01-27 17:01:35,service_app_149,Household Contact,53.0,20228.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2021-01-27 17:04:23,service_app_149,Household Contact,65.0,23400.0,0,0,,Male,0,,Homeowner,Household Resident,0
+2021-02-08 16:36:07,service_app_150,Household Contact,63.0,36668.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2021-02-08 17:07:39,service_app_151,Household Contact,64.0,9528.0,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2021-02-08 17:20:36,service_app_151,Household Contact,68.0,15038.0,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2021-02-08 17:24:40,service_app_151,Household Contact,58.0,0.0,0,0,,Male,0,Black or African American,Spouse,Household Resident,0
+2023-07-31 16:58:57,service_app_206,Household Contact,86.0,33590.16,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-08-11 20:22:06,service_app_188,Household Contact,23.0,25000.0,0,0,,Male,0,Black or African American,Child,Household Resident,0
+2023-08-23 20:59:46,service_app_186,Household Contact,68.0,4150.8,0,0,Not-Hispanic or Latino,Male,0,White,Homeowner,Household Resident,0
+2023-09-13 14:30:31,service_app_207,Household Contact,72.0,23218.32,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,1
+2023-09-20 17:06:04,service_app_207,Household Contact,66.0,23448.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-03-31 16:21:20,service_app_190,Household Contact,61.0,10968.0,0,1,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-04-05 20:16:57,service_app_191,Household Contact,71.0,32043.48,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-04-05 22:42:50,service_app_192,Household Contact,80.0,36934.9,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-04-26 16:34:33,service_app_193,Household Contact,71.0,22653.96,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-04-26 17:00:19,service_app_194,Household Contact,60.0,30184.8,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-04-26 17:24:58,service_app_195,Household Contact,65.0,12592.8,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-04-26 17:24:58,service_app_195,Household Contact,67.0,17220.0,0,1,,Female,0,Black or African American,Sibling,Household Resident,0
+2023-04-26 17:45:23,service_app_196,Household Contact,,,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-04-26 17:51:04,service_app_197,Household Contact,61.0,26700.0,0,1,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-04-26 17:51:04,service_app_197,Household Contact,37.0,12000.0,0,0,,Male,0,Black or African American,Child,Household Resident,0
+2023-04-26 18:58:19,service_app_198,Household Contact,63.0,49744.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-05-03 18:11:07,service_app_199,Household Contact,,39745.4,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2023-05-03 21:49:42,service_app_200,Household Contact,64.0,16533.72,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-05-03 22:06:14,service_app_201,Household Contact,79.0,15209.28,0,0,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,0
+2023-06-06 19:14:34,service_app_201,Household Contact,79.0,9934.8,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2023-06-12 20:14:28,service_app_202,Household Contact,67.0,17280.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-06-13 18:12:32,service_app_203,Household Contact,71.0,35838.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-06-13 20:18:14,service_app_204,Household Contact,67.0,34703.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-06-26 14:20:43,service_app_205,Household Contact,69.0,21024.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-06-26 14:20:43,service_app_205,Household Contact,79.0,20242.8,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2021-11-01 18:10:32,service_app_91,Household Contact,,20746.8,0,0,,Female,1,White,Homeowner,Household Resident,1
+2021-11-01 18:31:04,service_app_92,Household Contact,43.0,71749.86,0,0,Not-Hispanic or Latino,Female,1,White,Homeowner,Household Resident,0
+2021-11-01 18:35:03,service_app_92,Household Contact,17.0,,0,0,Hispanic or Latino,Female,0,,Child,Household Resident,0
+2021-11-01 18:35:43,service_app_92,Household Contact,1.0,,0,0,Hispanic or Latino,Male,0,,Child,Household Resident,0
+2021-11-01 19:08:09,service_app_93,Household Contact,,15672.0,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2021-11-01 19:09:04,service_app_93,Household Contact,59.0,14672.0,0,0,,,0,,Child,Household Resident,0
+2022-01-17 17:32:55,service_app_94,Household Contact,,33150.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2022-01-17 20:30:57,service_app_95,Household Contact,,,0,0,,Female,0,,Homeowner,Household Resident,0
+2022-01-21 18:19:02,service_app_96,Household Contact,59.0,17124.0,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2022-02-02 16:10:14,service_app_97,Household Contact,57.0,12276.0,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2022-02-02 16:24:49,service_app_97,Household Contact,40.0,7624.8,0,1,,Male,0,Black or African American,Child,Household Resident,0
+2022-02-02 17:50:47,service_app_98,Household Contact,82.0,19212.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2022-02-22 20:11:41,service_app_99,Household Contact,76.0,44559.6,0,0,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,0
+2022-02-22 20:15:06,service_app_99,Household Contact,71.0,11545.2,0,0,Not-Hispanic or Latino,Female,0,Black or African American,,Household Resident,0
+2022-03-18 17:32:56,service_app_100,Household Contact,66.0,30478.8,0,0,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,0
+2022-03-18 17:36:05,service_app_100,Household Contact,64.0,14226.6,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2022-03-21 13:49:37,service_app_101,Household Contact,77.0,29033.52,0,0,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,1
+2022-03-21 14:00:54,service_app_101,Household Contact,14.0,,0,0,,Female,0,Black or African American,Grandchild,Household Resident,0
+2022-03-21 13:56:03,service_app_101,Household Contact,72.0,26577.6,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2022-03-23 14:33:31,service_app_102,Household Contact,67.0,40685.16,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2022-03-23 14:42:31,service_app_102,Household Contact,42.0,10092.0,0,1,,Male,0,Black or African American,Child,Household Resident,0
+2022-03-28 17:06:34,service_app_103,Household Contact,61.0,10092.0,0,1,,Female,1,Black or African American,Homeowner,Household Resident,0
+2022-04-04 17:43:39,service_app_104,Household Contact,84.0,17028.72,0,0,,,0,,Homeowner,Household Resident,0
+2022-04-22 15:27:06,service_app_104,Household Contact,58.0,9065.04,0,1,,Male,0,Black or African American,Child,Household Resident,0
+2022-04-27 15:42:06,service_app_105,Household Contact,57.0,23870.2,0,0,Hispanic or Latino,Female,0,Other,Homeowner,Household Resident,0
+2022-04-27 18:20:17,service_app_106,Household Contact,,71565.0,0,0,,Male,0,White,Homeowner,Household Resident,0
+2022-04-28 16:43:47,service_app_107,Household Contact,59.0,10604.18,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2022-04-28 22:43:58,service_app_108,Household Contact,30.0,29638.1,0,0,,Male,0,White,Homeowner,Household Resident,0
+2022-05-06 17:06:06,service_app_109,Household Contact,79.0,24926.76,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2022-05-23 19:17:30,service_app_110,Household Contact,63.0,13232.4,0,1,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,0
+2022-05-23 19:44:58,service_app_110,Household Contact,67.0,26269.2,0,0,,Female,0,,Spouse,Household Resident,0
+2022-06-10 18:45:51,service_app_111,Household Contact,61.0,20148.0,0,1,,Female,1,Black or African American,Homeowner,Household Resident,0
+2022-06-14 13:57:57,service_app_112,Household Contact,52.0,27861.65,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2022-06-14 14:16:07,service_app_112,Household Contact,30.0,6728.04,0,1,,Male,0,Black or African American,Child,Household Resident,0
+2022-09-12 19:28:04,service_app_113,Household Contact,67.0,42330.96,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2022-09-12 19:32:03,service_app_113,Household Contact,3.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Grandchild,Household Resident,0
+2022-09-12 19:33:04,service_app_113,Household Contact,1.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Grandchild,Household Resident,0
+2022-09-13 19:28:07,service_app_114,Household Contact,83.0,40911.69,0,0,,Male,1,Black or African American,Homeowner,Household Resident,0
+2022-09-14 21:24:02,service_app_115,Household Contact,78.0,18773.57,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2022-09-21 14:40:11,service_app_116,Household Contact,61.0,30000.0,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2022-09-28 21:43:33,service_app_117,Household Contact,61.0,30022.65,0,1,,Female,0,Black or African American,Homeowner,Household Resident,0
+2022-09-28 22:39:40,service_app_118,Household Contact,,14148.0,0,1,,Female,0,,Homeowner,Household Resident,0
+2022-10-03 17:41:25,service_app_119,Household Contact,72.0,14821.8,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2022-10-03 17:45:09,service_app_119,Household Contact,66.0,16028.76,0,0,,Male,0,Black or African American,Homeowner,Household Resident,1
+2022-10-03 18:40:47,service_app_120,Household Contact,74.0,21687.84,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2022-10-03 18:41:34,service_app_120,Household Contact,98.0,22189.32,0,1,,Male,0,Black or African American,Homeowner,Household Resident,0
+2022-10-03 18:49:29,service_app_120,Household Contact,24.0,,0,0,,Female,0,Black or African American,Grandchild,Household Resident,0
+2022-10-03 18:50:40,service_app_120,Household Contact,4.0,,0,0,,Female,0,Black or African American,Grandchild,Household Resident,0
+2022-10-03 18:51:20,service_app_120,Household Contact,2.0,,0,0,,Female,0,Black or African American,Grandchild,Household Resident,0
+2022-11-04 22:26:23,service_app_121,Household Contact,70.0,42043.32,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2022-11-07 16:27:20,service_app_122,Household Contact,72.0,31886.28,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2022-12-05 18:43:29,service_app_123,Household Contact,,,0,0,,,1,,Homeowner,Household Resident,0
+2023-11-01 17:15:37,service_app_189,Household Contact,63.0,41071.23,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-07-05 20:58:09,service_app_183,Household Contact,52.0,39968.76,0,1,,Male,0,Black or African American,Homeowner,Household Resident,0
+2023-07-05 21:23:14,service_app_184,Household Contact,78.0,32205.24,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2023-07-10 16:50:11,service_app_185,Household Contact,,,0,0,,,0,,Homeowner,Household Resident,0
+2023-07-11 20:37:14,service_app_183,Household Contact,90.0,18993.12,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2023-07-19 20:32:44,service_app_186,Household Contact,62.0,10968.0,0,1,Not-Hispanic or Latino,Female,0,White,Homeowner,Household Resident,0
+2023-07-24 20:22:06,service_app_187,Household Contact,,,0,0,,,0,,Homeowner,Household Resident,0
+2023-07-25 16:04:00,service_app_188,Household Contact,61.0,14910.0,0,1,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-11-14 15:06:13,service_app_208,Household Contact,70.0,44912.16,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-11-27 15:16:15,service_app_209,Household Contact,73.0,57637.8,0,0,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,1
+2023-11-27 15:21:25,service_app_210,Household Contact,86.0,30919.74,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-12-08 16:30:46,service_app_210,Household Contact,62.0,,0,0,,Male,0,Black or African American,Child,Household Resident,0
+2023-12-12 19:35:13,service_app_211,Household Contact,64.0,16671.6,0,1,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,0
+2023-12-13 20:22:14,service_app_211,Household Contact,60.0,51247.8,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2023-12-13 20:35:44,service_app_211,Household Contact,2.0,0.0,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Nephew,Household Resident,0
+2024-01-16 17:06:48,service_app_212,Household Contact,67.0,58123.2,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-01-22 15:20:38,service_app_213,Household Contact,61.0,43441.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-01-22 16:22:35,service_app_212,Household Contact,51.0,,0,0,,Female,0,Black or African American,Sibling,Household Resident,0
+2024-01-29 17:28:46,service_app_214,Household Contact,67.0,47858.4,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-01-29 17:30:53,service_app_215,Household Contact,,16086.34,0,0,,Male,1,Black or African American,Homeowner,Household Resident,1
+2024-01-29 17:31:39,service_app_216,Household Contact,54.0,60452.65,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,1
+2024-02-06 18:27:45,service_app_213,Household Contact,15.0,0.0,0,0,,Female,0,Black or African American,Child,Household Resident,0
+2024-02-06 18:29:19,service_app_213,Household Contact,13.0,0.0,0,0,,Female,0,Black or African American,Child,Household Resident,0
+2024-02-06 19:48:43,service_app_216,Household Contact,14.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Child,Household Resident,0
+2024-02-06 20:22:33,service_app_215,Household Contact,63.0,9984.0,0,0,,Female,0,Black or African American,Friend,Household Resident,1
+2024-02-06 22:26:02,service_app_217,Household Contact,60.0,17940.0,0,1,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,0
+2024-02-13 17:12:59,service_app_217,Household Contact,26.0,17725.0,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Niece,Household Resident,0
+2024-02-13 17:27:50,service_app_218,Household Contact,75.0,30139.2,0,0,,Female,1,American Indian or Alaska Native,Homeowner,Household Resident,0
+2024-02-13 17:38:58,service_app_214,Household Contact,20.0,0.0,0,0,,Female,0,Black or African American,Grandchild,Household Resident,0
+2024-02-13 17:39:57,service_app_214,Household Contact,42.0,,0,0,,Female,0,Black or African American,Child,Household Resident,0
+2024-03-04 19:53:42,service_app_219,Household Contact,74.0,38435.36,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-03-05 19:19:21,service_app_220,Household Contact,66.0,34586.52,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-03-18 17:11:57,service_app_222,Household Contact,78.0,16904.4,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-03-18 16:27:11,service_app_221,Household Contact,80.0,13268.4,0,0,,Male,1,Black or African American,Homeowner,Household Resident,0
+2024-03-19 14:42:22,service_app_223,Household Contact,67.0,28961.76,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-03-22 20:34:51,service_app_224,Household Contact,,,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2024-03-28 18:19:28,service_app_225,Household Contact,64.0,58946.28,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-04-01 19:18:46,service_app_226,Household Contact,62.0,19256.4,0,1,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-04-01 19:46:30,service_app_220,Household Contact,67.0,20630.52,0,0,,Male,0,,Spouse,Household Resident,0
+2024-04-10 18:47:41,service_app_225,Household Contact,38.0,16348.8,0,1,,Female,0,Black or African American,Child,Household Resident,0
+2024-04-10 18:48:44,service_app_225,Household Contact,18.0,,0,0,,Female,0,Black or African American,Grandchild,Household Resident,0
+2024-04-19 18:09:10,service_app_227,Household Contact,60.0,45000.0,0,0,Not-Hispanic or Latino,Male,1,White,Homeowner,Household Resident,0
+2024-04-22 17:30:47,service_app_226,Household Contact,11.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Grandchild,Household Resident,0
+2024-04-23 21:22:02,service_app_228,Household Contact,64.0,23678.4,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-04-26 17:21:56,service_app_229,Household Contact,88.0,18612.0,0,0,,Male,1,Black or African American,Homeowner,Household Resident,0
+2024-05-01 18:27:50,service_app_230,Household Contact,,,0,0,,,0,,Homeowner,Household Resident,0
+2024-05-06 18:12:39,service_app_231,Household Contact,76.0,29360.4,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2024-05-13 16:57:28,service_app_231,Household Contact,74.0,19688.4,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-05-28 17:30:20,service_app_232,Household Contact,71.0,33476.4,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2024-05-30 20:47:30,service_app_233,Household Contact,46.0,,0,0,,,0,,Homeowner,Household Resident,0
+2024-06-04 20:08:31,service_app_234,Household Contact,78.0,35565.84,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-06-07 20:25:45,service_app_234,Household Contact,80.0,29236.2,0,0,,Male,0,Black or African American,Sibling,Household Resident,0
+2024-06-18 14:44:08,service_app_235,Household Contact,79.0,17796.0,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,0
+2024-06-18 14:49:19,service_app_236,Household Contact,55.0,7716.0,0,0,,Male,1,White,Homeowner,Household Resident,0
+2024-06-24 19:55:15,service_app_237,Household Contact,85.0,25535.28,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-06-28 17:52:25,service_app_238,Household Contact,83.0,32813.88,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-07-03 17:51:21,service_app_236,Household Contact,77.0,17556.0,0,0,,Female,0,White,,Household Resident,0
+2024-07-17 23:04:51,service_app_239,Household Contact,74.0,14360.4,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-07-17 23:09:49,service_app_239,Household Contact,77.0,23228.4,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2024-08-12 21:13:41,service_app_240,Household Contact,,,0,0,,,1,,Homeowner,Household Resident,0
+2024-08-13 17:01:11,service_app_241,Household Contact,82.0,27680.4,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-08-14 15:25:29,service_app_242,Household Contact,75.0,23852.4,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-08-19 12:06:52,service_app_243,Household Contact,72.0,16872.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-08-19 18:00:51,service_app_244,Household Contact,61.0,17940.0,0,0,,Male,1,Black or African American,Homeowner,Household Resident,0
+2024-08-19 18:03:05,service_app_245,Household Contact,76.0,47979.6,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2024-08-19 19:36:57,service_app_246,Household Contact,87.0,23750.04,0,0,,Male,1,Black or African American,Homeowner,Household Resident,0
+2024-08-20 15:57:58,service_app_247,Household Contact,91.0,11625.12,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2024-08-20 20:44:42,service_app_248,Household Contact,74.0,31345.8,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-08-26 17:49:23,service_app_249,Household Contact,77.0,35017.68,1,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2024-08-26 18:57:31,service_app_250,Household Contact,86.0,28700.4,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2024-08-26 19:48:23,service_app_243,Household Contact,55.0,11316.0,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Child,Household Resident,0
+2024-08-27 14:14:51,service_app_245,Household Contact,72.0,14302.32,0,0,,Female,0,Black or African American,Spouse,Household Resident,0
+2024-08-27 18:41:12,service_app_251,Household Contact,,16871.9,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-08-27 19:04:45,service_app_251,Household Contact,78.0,8520.0,0,0,,Female,0,Black or African American,Parent,Household Resident,0
+2024-08-27 19:05:46,service_app_251,Household Contact,53.0,,0,0,,Female,0,Black or African American,Sibling,Household Resident,0
+2024-08-27 19:06:38,service_app_251,Household Contact,37.0,11808.0,0,1,,Male,0,Black or African American,Child,Household Resident,0
+2024-08-27 19:07:46,service_app_251,Household Contact,34.0,,0,0,,Female,0,Black or African American,Child,Household Resident,0
+2024-09-03 17:47:25,service_app_252,Household Contact,74.0,22832.4,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-09-03 18:39:44,service_app_253,Household Contact,80.0,18439.8,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-09-04 15:40:48,service_app_254,Household Contact,79.0,19276.4,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-09-09 21:32:41,service_app_244,Household Contact,50.0,11115.0,0,0,,Female,0,,Spouse,Household Resident,0
+2024-09-17 16:53:58,service_app_250,Household Contact,,16680.0,0,0,,Female,0,Black or African American,Spouse,Household Resident,0
+2024-09-23 17:42:56,service_app_255,Household Contact,,39716.4,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2024-09-24 14:21:25,service_app_256,Household Contact,73.0,30448.2,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-09-25 14:25:53,service_app_257,Household Contact,66.0,68435.0,0,0,,Male,1,,Homeowner,Household Resident,0
+2024-09-25 14:40:01,service_app_257,Household Contact,65.0,,0,0,,Female,0,,Spouse,Household Resident,0
+2024-09-30 16:47:51,service_app_258,Household Contact,76.0,27096.0,0,0,,Male,0,Black or African American,Homeowner,Household Resident,1
+2024-10-09 15:48:12,service_app_258,Household Contact,,23276.4,0,0,,,0,,Spouse,Household Resident,0
+2024-10-10 17:08:23,service_app_255,Household Contact,78.0,13172.4,0,0,Not-Hispanic or Latino,Female,0,,Spouse,Household Resident,0
+2024-10-11 16:47:33,service_app_259,Household Contact,82.0,27680.4,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-10-23 20:51:13,service_app_260,Household Contact,75.0,13076.4,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-11-20 23:03:35,service_app_261,Household Contact,76.0,33985.03,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-11-21 20:05:50,service_app_262,Household Contact,66.0,,0,0,,,0,,Homeowner,Household Resident,0
+2024-11-21 20:06:29,service_app_263,Household Contact,,37318.32,0,0,,Female,1,,Homeowner,Household Resident,0
+2024-12-02 16:28:32,service_app_264,Household Contact,72.0,29852.64,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-12-06 16:58:02,service_app_265,Household Contact,,25335.36,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-12-16 21:57:27,service_app_266,Household Contact,86.0,32049.36,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2024-12-17 19:25:02,service_app_267,Household Contact,71.0,44258.76,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-01-07 16:24:28,service_app_265,Household Contact,61.0,,0,0,,Male,0,Black or African American,Child,Household Resident,0
+2025-01-20 20:28:44,service_app_268,Household Contact,60.0,79840.49,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-01-22 21:48:44,service_app_269,Household Contact,80.0,19304.4,0,0,,Male,1,White,Homeowner,Household Resident,0
+2025-01-27 18:38:56,service_app_269,Household Contact,54.0,,0,0,,Female,0,White,Friend,Household Resident,0
+2025-01-27 20:04:06,service_app_269,Household Contact,47.0,7356.0,0,0,,Male,0,White,Friend,Household Resident,0
+2025-01-27 20:01:12,service_app_269,Household Contact,73.0,13716.0,0,0,,Female,0,White,Friend,Household Resident,0
+2025-01-27 20:18:16,service_app_270,Household Contact,56.0,,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-01-27 20:50:09,service_app_270,Household Contact,54.0,54024.72,0,0,,Male,0,Black or African American,Spouse,Household Resident,1
+2025-01-27 21:15:25,service_app_271,Household Contact,74.0,,0,0,,Male,1,,Homeowner,Household Resident,0
+2025-01-29 16:40:55,service_app_273,Household Contact,,43210.92,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-01-29 16:48:56,service_app_274,Household Contact,71.0,19508.4,1,0,,Male,0,,Homeowner,Household Resident,0
+2025-01-29 16:53:59,service_app_272,Household Contact,67.0,18683.64,0,0,Not-Hispanic or Latino,Male,1,White,Homeowner,Household Resident,1
+2025-01-29 16:57:57,service_app_276,Household Contact,57.0,20325.6,0,1,Not-Hispanic or Latino,Female,1,White,Homeowner,Household Resident,0
+2025-01-29 17:01:04,service_app_277,Household Contact,45.0,21600.0,0,0,,Female,1,,Homeowner,Household Resident,0
+2025-01-29 17:02:42,service_app_278,Household Contact,42.0,52083.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-01-29 17:05:20,service_app_275,Household Contact,70.0,21228.0,0,0,,Female,0,,Homeowner,Household Resident,0
+2025-01-29 17:10:16,service_app_279,Household Contact,56.0,10380.0,0,0,,Female,1,White,Homeowner,Household Resident,0
+2025-01-29 20:56:39,service_app_274,Household Contact,73.0,38948.4,0,0,,Female,1,,Spouse,Household Resident,0
+2025-01-29 21:22:24,service_app_271,Household Contact,70.0,,0,0,,Female,0,,Spouse,Household Resident,0
+2025-01-29 21:26:55,service_app_271,Household Contact,,,0,0,,Female,0,,,Household Resident,0
+2025-01-29 23:56:30,service_app_268,Household Contact,12.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Child,Household Resident,0
+2025-02-03 21:54:51,service_app_280,Household Contact,63.0,15156.0,0,0,,Female,1,,Homeowner,Household Resident,0
+2025-02-04 18:20:38,service_app_281,Household Contact,72.0,13530.0,0,0,,Male,1,Black or African American,Homeowner,Household Resident,0
+2025-02-05 21:53:30,service_app_282,Household Contact,,,0,0,,,0,,Homeowner,Household Resident,0
+2025-02-05 23:09:41,service_app_284,Household Contact,,,0,0,,,0,,Homeowner,Household Resident,0
+2025-02-05 23:12:35,service_app_286,Household Contact,62.0,,0,0,,Male,0,,Homeowner,Household Resident,0
+2025-02-05 23:14:48,service_app_287,Household Contact,30.0,,0,0,,Female,0,,Homeowner,Household Resident,0
+2025-02-05 23:16:09,service_app_288,Household Contact,40.0,,0,0,,Female,0,,Homeowner,Household Resident,0
+2025-02-05 23:17:41,service_app_285,Household Contact,77.0,12552.0,0,0,,Female,1,,Homeowner,Household Resident,0
+2025-02-05 23:18:44,service_app_289,Household Contact,65.0,20304.0,0,0,,Female,1,,Homeowner,Household Resident,0
+2025-02-05 23:19:56,service_app_290,Household Contact,66.0,17492.4,0,0,,Female,1,,Homeowner,Household Resident,0
+2025-02-05 23:21:08,service_app_283,Household Contact,55.0,15444.0,0,0,,,1,,Homeowner,Household Resident,0
+2025-02-05 23:22:26,service_app_291,Household Contact,55.0,86377.36,0,0,,Female,1,,Homeowner,Household Resident,0
+2025-02-07 20:48:35,service_app_291,Household Contact,60.0,15228.96,0,0,,Male,0,,Spouse,Household Resident,0
+2025-02-18 18:46:58,service_app_292,Household Contact,73.0,34116.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-02-21 17:32:51,service_app_293,Household Contact,,59420.27,0,0,,Male,1,Black or African American,Homeowner,Household Resident,0
+2025-02-25 18:14:07,service_app_279,Household Contact,58.0,11604.0,0,0,,Male,0,White,,Household Resident,0
+2025-02-28 17:25:59,service_app_294,Household Contact,90.0,25786.68,0,0,,Male,1,Black or African American,Homeowner,Household Resident,1
+2025-03-03 22:34:11,service_app_295,Household Contact,63.0,34510.08,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-03-03 22:34:49,service_app_296,Household Contact,69.0,30648.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-03-04 18:54:29,service_app_297,Household Contact,67.0,16920.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-03-07 19:40:42,service_app_298,Household Contact,73.0,25388.16,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-03-14 15:17:26,service_app_301,Household Contact,74.0,24612.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-03-14 15:18:14,service_app_299,Household Contact,76.0,27348.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-03-14 16:18:11,service_app_300,Household Contact,65.0,,0,0,,Male,0,Black or African American,Homeowner,Household Resident,0
+2025-03-14 21:05:15,service_app_302,Household Contact,,27431.52,0,0,,Female,0,Black or African American,Homeowner,Household Resident,0
+2025-03-18 19:45:02,service_app_301,Household Contact,,21816.0,0,0,,Female,0,,,Household Resident,0
+2025-03-19 19:50:14,service_app_303,Household Contact,58.0,11604.0,0,1,,Female,1,,Homeowner,Household Resident,0
+2025-03-19 19:56:58,service_app_303,Household Contact,25.0,11316.0,0,1,,Male,0,,Child,Household Resident,0
+2025-03-19 20:35:19,service_app_293,Household Contact,,13896.0,0,0,,Female,0,,Spouse,Household Resident,0
+2025-03-19 21:25:45,service_app_304,Household Contact,71.0,40411.2,0,0,,Female,1,,Homeowner,Household Resident,0
+2025-03-24 17:34:58,service_app_305,Household Contact,57.0,41686.67,0,0,,,0,,Homeowner,Household Resident,0
+2025-03-24 17:29:15,service_app_305,Household Contact,65.0,37249.59,0,0,,Male,0,,Homeowner,Household Resident,0
+2025-03-24 18:36:12,service_app_306,Household Contact,64.0,15456.0,0,0,,Female,1,,Homeowner,Household Resident,0
+2025-03-24 18:54:05,service_app_306,Household Contact,,6012.0,0,0,,,0,,Grandchild,Household Resident,0
+2025-03-24 18:56:10,service_app_306,Household Contact,,4989.6,0,0,,,0,,Grandchild,Household Resident,0
+2025-03-24 19:00:29,service_app_307,Household Contact,56.0,61992.1,0,0,,Female,1,,Homeowner,Household Resident,0
+2025-03-24 19:08:08,service_app_307,Household Contact,35.0,39693.28,0,0,,Male,0,,,Household Resident,0
+2025-03-25 18:52:16,service_app_309,Household Contact,,,0,0,,,0,,Homeowner,Household Resident,0
+2025-04-07 17:06:33,service_app_310,Household Contact,69.0,15756.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-04-08 18:13:22,service_app_311,Household Contact,,9153.6,0,0,Not-Hispanic or Latino,Male,1,,Homeowner,Household Resident,0
+2025-04-10 17:13:29,service_app_311,Household Contact,,,0,0,,Female,0,Black or African American,Spouse,Household Resident,0
+2025-04-28 20:06:09,service_app_312,Household Contact,75.0,80741.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-04-29 14:48:08,service_app_313,Household Contact,67.0,61204.68,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-04-30 16:25:54,service_app_314,Household Contact,64.0,,0,0,,Female,0,,Homeowner,Household Resident,0
+2025-05-14 18:40:23,service_app_315,Household Contact,82.0,18699.6,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-05-20 15:41:25,service_app_316,Household Contact,82.0,11604.0,0,1,Not-Hispanic or Latino,Female,1,White,Homeowner,Household Resident,0
+2025-05-20 16:18:29,service_app_316,Household Contact,86.0,10433.6,0,0,,Male,0,White,Friend,Household Resident,0
+2025-05-21 17:22:24,service_app_308,Household Contact,83.0,37137.0,0,0,,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-05-27 16:24:07,service_app_317,Household Contact,74.0,24667.02,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-05-27 16:42:22,service_app_318,Household Contact,79.0,15324.0,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-05-28 15:53:44,service_app_319,Household Contact,,25916.4,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-05-28 20:58:10,service_app_320,Household Contact,57.0,,0,0,,Female,0,,Homeowner,Household Resident,0
+2025-05-28 21:34:30,service_app_321,Household Contact,62.0,,0,0,,Female,0,,Homeowner,Household Resident,0
+2025-05-28 22:25:08,service_app_322,Household Contact,54.0,,0,0,,Female,0,,Homeowner,Household Resident,0
+2025-06-03 17:13:00,service_app_323,Household Contact,76.0,18228.0,0,0,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,0
+2025-06-04 15:38:32,service_app_324,Household Contact,,5472.0,0,0,,Female,1,,Homeowner,Household Resident,0
+2025-06-04 15:40:16,service_app_324,Household Contact,,19044.0,0,0,,Male,0,Black or African American,Homeowner,Household Resident,1
+2025-06-04 20:30:44,service_app_325,Household Contact,84.0,,0,0,Not-Hispanic or Latino,Male,0,Black or African American,Homeowner,Household Resident,0
+2025-06-04 22:11:02,service_app_326,Household Contact,66.0,,0,0,,Male,0,,Homeowner,Household Resident,0
+2025-06-09 16:06:58,service_app_327,Household Contact,52.0,11320.0,0,0,,Female,1,,Homeowner,Household Resident,0
+2025-06-10 14:57:17,service_app_308,Household Contact,85.0,31417.2,0,0,,Male,0,,Spouse,Household Resident,0
+2025-06-10 14:58:24,service_app_308,Household Contact,34.0,12078.6,0,1,,Male,0,,Child,Household Resident,0
+2025-06-11 19:19:06,service_app_328,Household Contact,44.0,98974.0,0,0,,Female,1,,Homeowner,Household Resident,0
+2025-06-23 20:21:23,service_app_323,Household Contact,69.0,29739.52,0,0,,Female,0,,Homeowner,Household Resident,0
+2025-06-25 14:54:51,service_app_329,Household Contact,74.0,63435.84,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-06-25 19:27:16,service_app_330,Household Contact,68.0,47259.64,0,0,Not-Hispanic or Latino,Male,1,Black or African American,Homeowner,Household Resident,0
+2025-06-27 15:10:32,service_app_330,Household Contact,,28983.71,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2025-06-27 15:12:34,service_app_330,Household Contact,19.0,,0,1,Not-Hispanic or Latino,Female,0,Black or African American,Child,Household Resident,0
+2025-06-27 15:15:57,service_app_330,Household Contact,5.0,,0,0,,Female,0,,Grandchild,Household Resident,0
+2025-07-08 15:27:27,service_app_331,Household Contact,65.0,21706.8,0,0,,Female,0,,Homeowner,Household Resident,0
+2025-07-08 15:35:33,service_app_331,Household Contact,70.0,16807.2,0,0,,Male,0,,Homeowner,Household Resident,0
+2025-07-10 15:54:03,service_app_321,Household Contact,63.0,67023.0,0,0,,Male,0,,Homeowner,Household Resident,0
+2025-07-10 17:35:40,service_app_333,Household Contact,,,0,0,,,0,,Homeowner,Household Resident,0
+2025-07-10 18:01:39,service_app_332,Household Contact,,,0,0,,,0,,Homeowner,Household Resident,0
+2025-07-15 17:01:49,service_app_334,Household Contact,,27521.16,0,0,Not-Hispanic or Latino,Female,1,Black or African American,Homeowner,Household Resident,0
+2025-07-18 15:28:16,service_app_335,Household Contact,79.0,32937.84,0,0,,Female,1,White,Homeowner,Household Resident,0
+2025-08-15 15:19:18,service_app_336,Household Contact,68.0,27665.76,0,1,Not-Hispanic or Latino,Male,1,White,Homeowner,Household Resident,1
+2025-08-15 20:03:20,service_app_337,Household Contact,72.0,,0,0,,Female,0,,Homeowner,Household Resident,0
+2025-08-18 14:48:51,service_app_338,Household Contact,43.0,,0,0,,Male,0,,Homeowner,Household Resident,0
+2025-08-18 15:26:43,service_app_339,Household Contact,43.0,,0,0,,Male,0,,Homeowner,Household Resident,0
+2025-08-20 21:13:56,service_app_305,Household Contact,12.0,,0,0,,Male,0,,Child,Household Resident,0
+2025-08-20 21:14:39,service_app_305,Household Contact,16.0,,0,0,,Female,0,,Child,Household Resident,0
+2025-08-21 15:04:28,service_app_340,Household Contact,67.0,,0,0,,Female,0,,Homeowner,Household Resident,0
+2025-08-29 16:13:09,service_app_341,Household Contact,,27717.6,0,1,Not-Hispanic or Latino,Female,0,,Homeowner,Household Resident,0
+2025-09-11 16:35:20,service_app_342,Household Contact,72.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
+2025-09-22 21:35:10,service_app_343,Household Contact,64.0,,0,0,,Female,0,,Homeowner,Household Resident,0
+2025-09-23 17:48:47,service_app_344,Household Contact,72.0,,0,0,Not-Hispanic or Latino,Female,0,Black or African American,Homeowner,Household Resident,0
