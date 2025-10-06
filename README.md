@@ -80,11 +80,11 @@ and belonging.
 
 ## 👥 Team Members
 
--   **Jayden Cruz**\
--   **Evelyn Na**\
--   **Cindy Nguyen**\
--   **Colin Onevathana**\
--   **Brady Pinter**\
+-   **Jayden Cruz**
+-   **Evelyn Na**
+-   **Cindy Nguyen**
+-   **Colin Onevathana**
+-   **Brady Pinter**
 -   **Pratyusha Shanker**
 
 ------------------------------------------------------------------------
